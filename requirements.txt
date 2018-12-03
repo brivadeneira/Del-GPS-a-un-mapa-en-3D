@@ -1,0 +1,3 @@
+pyserial
+folium
+pynmea2
